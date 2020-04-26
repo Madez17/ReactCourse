@@ -22,8 +22,6 @@ class Badge extends React.Component{
 			<div className="Badge__footer">
 				#platziconf
 			</div>
-
-
 		</div>
     )
   }

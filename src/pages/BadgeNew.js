@@ -15,9 +15,6 @@ class BadgeNew extends React.Component {
   } };
 
   handleChange = (e) => {
-    // const copyStateForm = this.state.form
-    // copyStateForm[e.target.name] = e.target.value;
-
     this.setState({
       form: {
         ... this.state.form,
@@ -25,6 +22,7 @@ class BadgeNew extends React.Component {
       },
     });
   }
+  
   render() {
     return (
       <React.Fragment>
