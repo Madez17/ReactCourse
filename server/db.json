@@ -440,6 +440,22 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Mara",
+      "lastName": "Lorenz",
+      "email": "mara@gmail.com",
+      "jobTitle": "Front-End Developer",
+      "twitter": "maralop",
+      "id": "AZTDIcq"
+    },
+    {
+      "firstName": "María Fernanda",
+      "lastName": "Méndez",
+      "email": "mafe.mendez.m@gmail.com",
+      "jobTitle": "Full Stack Software Developer",
+      "twitter": "Ma_dez17",
+      "id": "IhTjSwv"
     }
   ]
 }
