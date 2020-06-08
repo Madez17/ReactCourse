@@ -27,7 +27,7 @@ class Badges extends React.Component {
   
     componentWillUnmount() {
         clearInterval(this.intervalId);
-    }
+    } 
 
     fetchData = async () => {
         this.setState({ loading: true, error: null });
